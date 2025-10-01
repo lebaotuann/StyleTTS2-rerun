@@ -12,6 +12,6 @@ transformers
 einops
 einops-exts
 tqdm
-typing
+#typing
 typing-extensions
 git+https://github.com/resemble-ai/monotonic_align.git
